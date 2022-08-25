@@ -24,9 +24,9 @@ I started my career in digital design and worked my way into technology. Profici
 - 🔭 Always open to collaborating on projects and innovative/disruptive ideas. 
 
 <p align="center">
-  <img height="50%" align="center"  width="auto" src ="https://github-readme-stats.vercel.app/api?username=ErenPhayte&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000">
-  <img height="50%" align="center"  width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenPhayte&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ErenPhayte&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img height="50%" align="center"  width="auto" src ="https://github-readme-stats.vercel.app/api?username=ErenPhayte&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=00000000&count_private=true&hide=prs,stars,contribs">
+  <img height="50%" align="center"  width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ErenPhayte&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=8&count_private=true&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ErenPhayte&theme=darcula&hide_border=true&background=FFFFFF00&count_private=true">
 </p>
 
   
