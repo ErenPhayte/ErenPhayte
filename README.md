@@ -10,12 +10,12 @@
 ### Hi there, I'm [Johan Steyn, AKA Jay](https://www.linkedin.com/in/johansteyn/)
 <br />
 
-I am VP of Engineering at <strong>[Kurtosys](https://kurtosys.com/)</strong>.
+I am VP of Engineering / CTO.
 
 
-I have spent 23 years in technology building multiple awarded solutions for brands in the property industry (Seeff, Remax, Homenet, Chase Everitt, Multinet), e-commerce (Ster-Kinekor, Computicket, Cape Union Mart, PEP), automotive industry (VW, Audi, Merc), loyalty and promotions (Samsung, Sanlam Reality) alcohol industry (SAB, Miller, Black Label, Distell), hospitality and food industry (Andbeyond, Unilever, KFC, Nando’s), fintech industry(PSG, Sanlam financial Weath), human resource industry servicing clients like Sasol, Kimberley Clark, and Lonmin Mining Company and most recently starting a fintech development business in Cape Town for a UK based personal loans business called Quint, generating over R300k applications a day.
+I have spent 23 years in technology building multiple awarded solutions for brands in the property industry (Seeff, Remax, Homenet, Chase Everitt, Multinet), e-commerce (Ster-Kinekor, Computicket, Cape Union Mart, PEP), automotive industry (VW, Audi, Merc), loyalty and promotions (Samsung, Sanlam Reality) alcohol industry (SAB, Miller, Black Label, Distell), hospitality and food industry (Andbeyond, Unilever, KFC, Nando’s), fintech industry(PSG, Sanlam financial Wealth), human resource industry servicing clients like Sasol, Kimberley Clark, and Lonmin Mining Company and most recently starting a fintech development business in Cape Town for a UK based personal loans business called Quint, generating over R300k applications a day.
 
-I started my career in digital design and worked my way into technology. Proficient in many program languages and technologies, and pairing that with strong user experience, I have a keen passion for solution architecture and UX, starting the UX South Africa conferences and monthly master classes in 2014.
+I started my career in digital design and worked my way into technology. I am proficient in many program languages and technologies and pairing that with strong user experience, I have a keen passion for solution architecture and UX, starting the UX South Africa conferences and monthly master classes in 2014.
 <br />
 
 ## 👩‍💻 About me
